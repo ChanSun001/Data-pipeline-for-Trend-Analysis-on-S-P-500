@@ -1,1 +1,1 @@
-# Stock-Analysis-Data-Pipeline-
+# Data pipeline for Trend Analysis on S&P 500
